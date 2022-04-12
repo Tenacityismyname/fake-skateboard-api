@@ -1,7 +1,7 @@
 {
   "skateboards": [
-    { "id": 1, "brand": "Creature" },
-    { "id": 2, "brand": "Santa Cruz" },
-    { "id": 3, "brand": "thrasher" }
+    { "id": 1, "brand": "Creature", "picture": "https://www.nativeskatestore.co.uk/images/off-hand-complete-skateboard-7-75-x-31-4-p45998-114299_image.jpg" },
+    { "id": 2, "brand": "Santa Cruz", "picture": "https://www.nativeskatestore.co.uk/images/off-hand-complete-skateboard-7-75-x-31-4-p45998-114299_image.jpg" },
+    { "id": 3, "brand": "thrasher", "picture": "https://www.nativeskatestore.co.uk/images/off-hand-complete-skateboard-7-75-x-31-4-p45998-114299_image.jpg" }
   ]
 }
