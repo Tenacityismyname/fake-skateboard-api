@@ -1,7 +1,7 @@
 {
   "skateboards": [
-    { "id": 1, "brand": "Creature", "picture": "https://www.nativeskatestore.co.uk/images/off-hand-complete-skateboard-7-75-x-31-4-p45998-114299_image.jpg" },
+    { "id": 1, "brand": "Creature", "picture": "https://cdn11.bigcommerce.com/s-ae3w3/images/stencil/1280x1280/products/63516/131075/11116504-B__57829.1638485390.jpg?c=2" },
     { "id": 2, "brand": "Santa Cruz", "picture": "https://www.nativeskatestore.co.uk/images/off-hand-complete-skateboard-7-75-x-31-4-p45998-114299_image.jpg" },
-    { "id": 3, "brand": "thrasher", "picture": "https://www.nativeskatestore.co.uk/images/off-hand-complete-skateboard-7-75-x-31-4-p45998-114299_image.jpg" }
+    { "id": 3, "brand": "thrasher", "picture": "https://www.tactics.com/a/cgbm/9/thrasher-november-2020-skate-magazine.jpg" }
   ]
 }
